@@ -1,1 +1,3 @@
 this is the jan file.
+editing second time. 
+first edit was discarded used command git checkout -- <filename>
